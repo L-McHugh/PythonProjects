@@ -17,3 +17,6 @@ To help when you need a randomly generated password.
 - [@L-McHugh](https://github.com/L-McHugh)
 
 # Demo 
+
+https://user-images.githubusercontent.com/105207906/209981127-6d7cc0d1-4f3c-44ad-883c-105f14367860.mp4
+
